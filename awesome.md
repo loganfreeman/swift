@@ -1,1 +1,2 @@
 - [30DaysofSwift](https://github.com/allenwong/30DaysofSwift)
+- [Awesome swift](https://github.com/matteocrippa/awesome-swift)
