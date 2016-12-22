@@ -2,3 +2,4 @@
 - [Awesome swift](https://github.com/matteocrippa/awesome-swift)
 - [All of the resources for Learning About Swift](https://github.com/hsavit1/Awesome-Swift-Education)
 - [Hacking With Swift](https://www.hackingwithswift.com/read)
+- [Jump right in](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
