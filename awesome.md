@@ -6,3 +6,4 @@
 - [Swift Tutorials](https://www.codementor.io/swift/tutorial)
 - [A project introducing you to Swift](https://github.com/Sajjon/SwiftIntro)
 - [Swift 语言指南](https://github.com/ipader/SwiftGuide)
+- [Learn Apple's Swift programming language interactively through these playgrounds](https://github.com/nettlep/learn-swift)
