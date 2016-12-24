@@ -5,3 +5,4 @@
 - [Jump right in](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
 - [Swift Tutorials](https://www.codementor.io/swift/tutorial)
 - [A project introducing you to Swift](https://github.com/Sajjon/SwiftIntro)
+- [Swift 语言指南](https://github.com/ipader/SwiftGuide)
