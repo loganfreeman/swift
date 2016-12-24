@@ -9,3 +9,4 @@
 - [Learn Apple's Swift programming language interactively through these playgrounds](https://github.com/nettlep/learn-swift)
 - [Learning a new language: SWIFT](https://github.com/domenicosolazzo/practice-swift)
 - [All of the resources for Learning About Swift](https://github.com/hsavit1/Awesome-Swift-Education)
+- [About iOS App Architecture](https://developer.apple.com/library/content/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007072-CH7-SW24)
