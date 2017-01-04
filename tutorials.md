@@ -6,6 +6,7 @@ Dependency management
 ---
 - [How to Use CocoaPods with Swift](https://www.raywenderlich.com/97014/use-cocoapods-with-swift)
 - [Carthage Tutorial: Getting Started](https://www.raywenderlich.com/109330/carthage-tutorial-getting-started)
+- [Swift项目引入第三方库的方法](http://blog.shiqichan.com/How-To-Import-3rd-Lib-Into-Swift-Project/)
 
 Network
 ---
