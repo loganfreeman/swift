@@ -11,3 +11,4 @@ Dependency management
 Network
 ---
 - [alamofire](https://www.raywenderlich.com/121540/alamofire-tutorial-getting-started)
+- [Working with JSON](https://www.raywenderlich.com/120442/swift-json-tutorial)
