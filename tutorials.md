@@ -8,7 +8,7 @@ Dependency management
 - [Carthage Tutorial: Getting Started](https://www.raywenderlich.com/109330/carthage-tutorial-getting-started)
 - [Swift项目引入第三方库的方法](http://blog.shiqichan.com/How-To-Import-3rd-Lib-Into-Swift-Project/)
 - [Beginner’s Guide to Using CocoaPods with React Native](https://shift.infinite.red/beginner-s-guide-to-using-cocoapods-with-react-native-46cb4d372995#.3hw5s8lkr)
-- [React Native: Integrating with Existing Apps ](http://facebook.github.io/react-native/releases/0.23/docs/embedded-app-ios.html)
+- [React Native: Integrating with Existing Apps ](https://facebook.github.io/react-native/docs/integration-with-existing-apps.html)
 
 Network
 ---
