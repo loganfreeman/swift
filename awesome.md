@@ -14,3 +14,4 @@
 - [All of the resources for Learning About Swift](https://github.com/hsavit1/Awesome-Swift-Education)
 - [About iOS App Architecture](https://developer.apple.com/library/content/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007072-CH7-SW24)
 - [swift from scratch](https://code.tutsplus.com/series/swift-from-scratch--cms-709)
+- [Swift Tutorial@tutorialspoint](https://www.tutorialspoint.com/swift/index.htm)
