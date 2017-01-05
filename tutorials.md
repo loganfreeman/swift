@@ -21,6 +21,7 @@ Playground
 
 Provisioning and distribution
 ---
+- [fastlane tools doc](https://docs.fastlane.tools/)
 - [match](https://github.com/fastlane/fastlane/tree/master/match#readme)
 - [code signing guide](https://codesigning.guide/)
 - [Maintaining Your Signing Identities and Certificates](https://developer.apple.com/library/content/documentation/IDEs/Conceptual/AppDistributionGuide/MaintainingCertificates/MaintainingCertificates.html)
