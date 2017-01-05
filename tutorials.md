@@ -25,3 +25,4 @@ Provisioning and distribution
 - [code signing guide](https://codesigning.guide/)
 - [Maintaining Your Signing Identities and Certificates](https://developer.apple.com/library/content/documentation/IDEs/Conceptual/AppDistributionGuide/MaintainingCertificates/MaintainingCertificates.html)
 - [Codesigning concepts](https://docs.fastlane.tools/codesigning/getting-started/)
+- [set up xcode project](https://docs.fastlane.tools/codesigning/xcode-project/#)
