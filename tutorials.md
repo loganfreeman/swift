@@ -22,3 +22,4 @@ Playground
 Provisioning and distribution
 ---
 - [match](https://github.com/fastlane/fastlane/tree/master/match#readme)
+- [code signing guide](https://codesigning.guide/)
