@@ -27,3 +27,4 @@ Provisioning and distribution
 - [Maintaining Your Signing Identities and Certificates](https://developer.apple.com/library/content/documentation/IDEs/Conceptual/AppDistributionGuide/MaintainingCertificates/MaintainingCertificates.html)
 - [Codesigning concepts](https://docs.fastlane.tools/codesigning/getting-started/)
 - [set up xcode project](https://docs.fastlane.tools/codesigning/xcode-project/#)
+- [Deploying a React Native App with Fastlane](https://dbanck.svbtle.com/deploying-a-react-native-app-with-fastlane)
