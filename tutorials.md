@@ -29,3 +29,4 @@ Provisioning and distribution
 - [set up xcode project](https://docs.fastlane.tools/codesigning/xcode-project/#)
 - [Deploying a React Native App with Fastlane](https://dbanck.svbtle.com/deploying-a-react-native-app-with-fastlane)
 - [How to Submit An App to Apple](https://www.raywenderlich.com/127936/submit-an-app-part-1)
+- [TestFlight Tutorial](https://www.raywenderlich.com/133121/testflight-tutorial-ios-beta-testing)
