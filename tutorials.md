@@ -28,3 +28,4 @@ Provisioning and distribution
 - [Codesigning concepts](https://docs.fastlane.tools/codesigning/getting-started/)
 - [set up xcode project](https://docs.fastlane.tools/codesigning/xcode-project/#)
 - [Deploying a React Native App with Fastlane](https://dbanck.svbtle.com/deploying-a-react-native-app-with-fastlane)
+- [How to Submit An App to Apple](https://www.raywenderlich.com/127936/submit-an-app-part-1)
